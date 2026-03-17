@@ -1,0 +1,115 @@
+/* Estilo general */
+body{
+background-color:#140018;
+color:white;
+font-family:Arial, Helvetica, sans-serif;
+}
+
+/* Navbar */
+.navbar {
+    background-color: white;
+}
+
+.navbar a {
+    color: #252325 !important;
+}
+
+/* Escenarios */
+.escenario{
+padding:25px;
+border-radius:10px;
+margin-bottom:30px;
+}
+
+/* Escenario 1 Akon */
+.escenario1{
+background-color:rgb(209, 14, 14);
+}
+
+/* Escenario 2  --- */
+.escenario2{
+background-color:rgb(211, 142, 14);
+}
+
+/* Escenario 3 Joaquin */
+.escenario3{
+background-color:rgb(233, 233, 7);
+color:black;
+}
+
+/* Escenario 4 Annie */
+.escenario4{
+background-color:rgb(27, 158, 27);
+}
+
+/* Escenario 5 Tommy */
+.escenario5{
+background-color:rgb(79, 199, 247);
+color:black;
+}
+
+/* Escenario 6 Pocki */
+.escenario6{
+background-color:rgb(22, 22, 158);
+color: rgb(8, 8, 56);
+}
+
+/* Escenario 7 */
+.escenario7{
+background-color:#f34797;
+color:#881f50;
+}
+
+/* Escenario 8 Nacho */
+.escenario7{
+background-color:rgb(255, 255, 255);
+color:black;
+}
+
+/* Escenario 9 Isaac */
+.escenario10{
+background-color:rgb(155, 155, 155);
+color:rgb(0, 0, 0);
+}
+
+/* Escenario 10 flor */
+.escenario9{
+background-color:rgb(192, 11, 192);
+color:rgb(73, 6, 73);
+}
+
+/* Escenario 11 Kevy */
+.escenario10{
+background-color:rgb(246, 177, 255);
+color:rgb(93, 27, 95);
+}
+
+/* Escenario 12 */
+.escenario10{
+background-color:rgb(127, 12, 221);
+color:rgb(30, 7, 66);
+}
+
+/* Escenario 13 */
+.escenario10{
+background-color:rgb(132, 181, 255);
+color:rgb(52, 78, 102);
+}
+
+/* Escenario 14 */
+.escenario10{
+background-color:black;
+color:rgb(80, 80, 80);
+}
+
+/* Escenario 15 */
+.escenario10{
+background-color:black;
+color:rgb(173, 173, 173);
+}
+
+/* Imágenes */
+img{
+max-width:100%;
+border-radius:10px;
+}

@@ -1,0 +1,48 @@
+body{
+background-color:#140018;
+color:white;
+font-family:Arial, Helvetica, sans-serif;
+}
+
+/* Navbar */
+.navbar {
+    background-color: white;
+}
+
+.navbar a {
+    color: #252325 !important;
+}
+
+.personaje{
+padding:20px;
+border-radius:10px;
+}
+
+/* colores */
+
+.personaje0{background:rgb(201, 201, 201); color: #585858;}
+.personaje1{background:red;}
+.personaje2{background:orange;}
+.personaje3{background:yellow;color:black;}
+.personaje4{background:green;}
+.personaje5{background:rgb(30, 169, 224);color:black;}
+.personaje6{background:blue;}
+.personaje7{background:#628291;color:black;}
+.personaje8{background:rgb(228, 42, 98);color:black;}
+.personaje9{background:#da7f8d;color:black;}
+.personaje10{background:white;color:black;}
+.personaje11{background:gray;}
+.personaje12{background:#5c4364;color:black;}
+.personaje13{background:rgb(203, 80, 228);color:black;}
+.personaje14{background:rgb(100, 9, 112);}
+.personaje15{background:#4b0082;}
+.personaje16{background:#96c0ff;color:black;}
+.personaje17{background: rgb(246, 200, 255);}
+.personaje18{background:black;color:white;}
+.personaje19{background:#333;}
+.personaje20{background:#c4a484;color:black;}
+.personaje21{background:#746250;color:rgb(39, 32, 28);}
+
+img{
+border-radius:10px;
+}
