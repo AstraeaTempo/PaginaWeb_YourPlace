@@ -28,7 +28,7 @@ background-color:rgb(209, 14, 14);
 
 /* Escenario 2  --- */
 .escenario2{
-background-color:rgb(211, 142, 14);
+background-color:rgb(218, 112, 14);
 }
 
 /* Escenario 3 Joaquin */
@@ -54,56 +54,62 @@ background-color:rgb(22, 22, 158);
 color: rgb(8, 8, 56);
 }
 
-/* Escenario 7 */
+/* Escenario 7 Moxhy */
 .escenario7{
 background-color:#f34797;
 color:#881f50;
 }
 
 /* Escenario 8 Nacho */
-.escenario7{
+.escenario8{
 background-color:rgb(255, 255, 255);
 color:black;
 }
 
 /* Escenario 9 Isaac */
-.escenario10{
+.escenario9{
 background-color:rgb(155, 155, 155);
 color:rgb(0, 0, 0);
 }
 
 /* Escenario 10 flor */
-.escenario9{
-background-color:rgb(192, 11, 192);
+.escenario10{
+background-color:rgb(141, 11, 192);
 color:rgb(73, 6, 73);
 }
 
 /* Escenario 11 Kevy */
-.escenario10{
-background-color:rgb(246, 177, 255);
+.escenario11{
+background-color:rgb(186, 136, 252);
 color:rgb(93, 27, 95);
 }
 
-/* Escenario 12 */
-.escenario10{
-background-color:rgb(127, 12, 221);
+/* Escenario 12 Jester */
+.escenario12{
+background-color:rgb(92, 12, 221);
 color:rgb(30, 7, 66);
 }
 
-/* Escenario 13 */
-.escenario10{
+/* Escenario 13 Shelki */
+.escenario13{
 background-color:rgb(132, 181, 255);
 color:rgb(52, 78, 102);
 }
 
-/* Escenario 14 */
-.escenario10{
+/* Escenario 14 Ott- */
+.escenario14{
 background-color:black;
 color:rgb(80, 80, 80);
 }
 
-/* Escenario 15 */
-.escenario10{
+/* Escenario 15 Onun */
+.escenario15{
+background-color:black;
+color:rgb(173, 173, 173);
+}
+
+/* Escenario 16 Sala de control */
+.escenario16{
 background-color:black;
 color:rgb(173, 173, 173);
 }

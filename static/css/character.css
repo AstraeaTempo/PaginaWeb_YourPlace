@@ -20,28 +20,53 @@ border-radius:10px;
 
 /* colores */
 
+/* player */
 .personaje0{background:rgb(201, 201, 201); color: #585858;}
+/* felix*/
 .personaje1{background:red;}
+/* croslo */
+/* ciul */
 .personaje2{background:orange;}
+/* dream */
 .personaje3{background:yellow;color:black;}
+/* annie */
 .personaje4{background:green;}
+/* tommy */
 .personaje5{background:rgb(30, 169, 224);color:black;}
+/* Pocki */
 .personaje6{background:blue;}
+/* DearDask */
 .personaje7{background:#628291;color:black;}
+/* Moxhy */
 .personaje8{background:rgb(228, 42, 98);color:black;}
+/* LadyDasy */
 .personaje9{background:#da7f8d;color:black;}
+/* Nacho */
 .personaje10{background:white;color:black;}
+/* Isaac */
 .personaje11{background:gray;}
+/* Lyla LoveStars */
 .personaje12{background:#5c4364;color:black;}
-.personaje13{background:rgb(203, 80, 228);color:black;}
-.personaje14{background:rgb(100, 9, 112);}
-.personaje15{background:#4b0082;}
+/* kevy */
+.personaje13{background:rgb(178, 136, 218);color:black;}
+/* Florecilla */
+.personaje14{background:rgb(123, 10, 199);}
+/* Jester */
+.personaje15{background:#2e0082;}
+/* Shadilk */
 .personaje16{background:#96c0ff;color:black;}
-.personaje17{background: rgb(246, 200, 255);}
+/* CaveCat */
+.personaje17{background: rgb(246, 200, 255); color: #000;}
+/* Onun */
 .personaje18{background:black;color:white;}
+/* Ottic */
 .personaje19{background:#333;}
+/* Sc Nc */
 .personaje20{background:#c4a484;color:black;}
+/* Robots */
 .personaje21{background:#746250;color:rgb(39, 32, 28);}
+/* xina */
+.personaje22{background:rgb(32, 20, 63);color:white;}
 
 img{
 border-radius:10px;
